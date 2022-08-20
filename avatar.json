@@ -1,0 +1,21 @@
+{
+  "photoURL": "https://firebasestorage.googleapis.com/v0/b/sportify-test.appspot.com/o/default-profile-icon-6.jpg?alt=media&token=9e978cff-db78-4549-899d-cc4589aee9d3",
+  "cricket": "https://firebasestorage.googleapis.com/v0/b/sportify-test.appspot.com/o/Cricket.jpg?alt=media&token=0edddc52-abf4-4373-b82c-64e91a4126a8",
+  "cycling": "https://firebasestorage.googleapis.com/v0/b/sportify-test.appspot.com/o/Cycling.jpg?alt=media&token=7600f6af-cbeb-428f-a155-2990d76c464d",
+  "football": "https://firebasestorage.googleapis.com/v0/b/sportify-test.appspot.com/o/Football.jpg?alt=media&token=f6aff639-bb1a-4fa1-affa-8094f50bcdca",
+  "rugby": "https://firebasestorage.googleapis.com/v0/b/sportify-test.appspot.com/o/Rugby.jpg?alt=media&token=5c6103c4-ef2e-45fd-9427-7b774dcb79d0",
+  "running": "https://firebasestorage.googleapis.com/v0/b/sportify-test.appspot.com/o/Running.jpg?alt=media&token=1c35b191-9327-48bf-b8e0-8b45408dbd18",
+  "snowBoarding": "https://firebasestorage.googleapis.com/v0/b/sportify-test.appspot.com/o/Snow%20Boarding.jpg?alt=media&token=69bce0c1-e8ee-4555-9eb6-b238567c1138",
+  "tennis": "https://firebasestorage.googleapis.com/v0/b/sportify-test.appspot.com/o/Tennis.jpg?alt=media&token=a627b0fb-d4fe-4d4d-8c16-506b13721c02",
+  "yoga": "https://firebasestorage.googleapis.com/v0/b/sportify-test.appspot.com/o/Yoga.jpg?alt=media&token=750ab5af-a776-4301-b5f7-125bc52bb8ad",
+  "abeSimpson": "https://firebasestorage.googleapis.com/v0/b/sportify-test.appspot.com/o/Abe%20Simpson.jpg?alt=media&token=55545fec-91f0-4614-8a07-4277ea00db93",
+  "apu": "https://firebasestorage.googleapis.com/v0/b/sportify-test.appspot.com/o/Apu.jpg?alt=media&token=54fc256d-a3c8-4d25-a37d-465c314058b5",
+  "bartSimpson": "https://firebasestorage.googleapis.com/v0/b/sportify-test.appspot.com/o/Bart%20Simpson.png?alt=media&token=55833c4a-7a7c-4fd7-974f-7125b8893844",
+  "homerSimpson": "https://firebasestorage.googleapis.com/v0/b/sportify-test.appspot.com/o/Homer%20Simpson.png?alt=media&token=514f0e71-bc91-4960-8fa3-7272bea7732c",
+  "lenny": "https://firebasestorage.googleapis.com/v0/b/sportify-test.appspot.com/o/Lenny.jpg?alt=media&token=de6fc77e-954f-4244-88fd-f09792256251",
+  "lisaSimspon": "https://firebasestorage.googleapis.com/v0/b/sportify-test.appspot.com/o/Lisa%20Simpson.png?alt=media&token=c1ece759-0005-4270-9083-f8e84e7aa47b",
+  "margeSimpson": "https://firebasestorage.googleapis.com/v0/b/sportify-test.appspot.com/o/Marge%20Simpson.png?alt=media&token=0fb5ddb6-cd6c-41f2-b145-ce2d7dd0ca07",
+  "mrBurns": "https://firebasestorage.googleapis.com/v0/b/sportify-test.appspot.com/o/Mr.%20Burns.jpg?alt=media&token=139e8051-fb2f-4607-9d8b-346940254d38",
+  "nedFlanders": "https://firebasestorage.googleapis.com/v0/b/sportify-test.appspot.com/o/Ned%20Flanders.png?alt=media&token=7a1ddcc0-dd24-459e-9fc8-706be0a39caf",
+  "smithers": "https://firebasestorage.googleapis.com/v0/b/sportify-test.appspot.com/o/Smithers.png?alt=media&token=d11cbe3f-d4d6-458f-9fe8-1161f1d2f854"
+}
