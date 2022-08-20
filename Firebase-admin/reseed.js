@@ -5,7 +5,7 @@ const {
   createUsers,
   deleteFirestoreEvents,
   createFirestoreEvents,
-} = require('./Firebase-admin/services');
+} = require('./services');
 
 getAuthUsers()
   .then((userRecords) => deleteAuthUsers(userRecords))

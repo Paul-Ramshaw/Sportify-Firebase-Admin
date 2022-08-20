@@ -5,7 +5,7 @@
   "main": "config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "reseed": "node reseed.js"
+    "reseed": "node ./Firebase-admin/reseed.js"
   },
   "keywords": [],
   "author": "",

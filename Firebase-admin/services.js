@@ -19,7 +19,6 @@ function getAuthUsers() {
 function deleteAuthUsers(userRecords) {
   const promises = [];
   userRecords.forEach((userRecord) => {
-    console.log('getting here');
     promises.push(admin.auth().deleteUser(userRecord.uid));
   });
   return Promise.all(promises);
