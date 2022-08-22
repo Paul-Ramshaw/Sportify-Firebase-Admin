@@ -4,7 +4,7 @@ This application is intended to be used alongside Sportify. It should only be us
 
 ## Important
 
-This application uses the firebase-admin SDK.  It requires service account credentials to access the databases.  Make sure that those credentials are not exposed in the client-side sportify app, and that they are .gitignored in the Sportify-Firebase-Admin.  Also, make sure to only use those credentials for the test environment for your sportify project.
+This application uses the firebase-admin SDK.  It requires service account credentials to access the databases.  Make sure that those credentials are not exposed in the client-side sportify app, and that they are .gitignored in the Sportify-Firebase-Admin.  Also, make sure to only use those credentials that are for the test environment of your sportify project.
 
 ## Getting started
 
@@ -37,7 +37,7 @@ $ npm run seed
 ## Sportify
 
 To run Sportify you will need to set up a project on firebase with Authentication, a Firestore database and cloud storage.
-More information about sportify can be found here: https://github.com/Paul-Ramshaw/sportify.  
+More information about Sportify can be found here: https://github.com/Paul-Ramshaw/sportify.  
 
 ## Firebase-Admin Configuration
 
