@@ -42,3 +42,8 @@ More information about sportify can be found here: https://github.com/Paul-Ramsh
 ## Firebase-Admin Configuration
 
 In order to (re)seed the firebase authentication and firestore databases, a configuration file with your firebase service account's credentials will also need to be added to the root of the Sportify-Firebase-admin project.  Add a file named "admin-key.json" containing the test environments service account credentials to the root of the Sportify-Firebase-admin project.  Make sure that the file containing the firebase configuration file is gitignored.
+
+## Dependencies
+
+- [firebase-admin](https://www.npmjs.com/package/firebase-admin)
+
