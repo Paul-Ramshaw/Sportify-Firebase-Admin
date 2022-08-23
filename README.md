@@ -1,6 +1,6 @@
 # Sportify-Firebase-Admin
 
-This application uses the Firebase-Admin SDK to (re)seed the Sportify development databases.  Sportify-Firebase-Admin will repopulate the Firebase Authentication and Firestore databases with sample user and event data.
+This application uses the Firebase-Admin SDK to (re)seed the Sportify development databases.  Sportify-Firebase-Admin will repopulate the Firebase Authentication and Firestore databases with sample user and event data.  More information about Sportify can be found here: https://github.com/Paul-Ramshaw/sportify.
 
 ## Important
 
