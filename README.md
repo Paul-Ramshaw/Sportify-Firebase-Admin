@@ -4,7 +4,7 @@ This application uses the Firebase-Admin SDK to (re)seed the Sportify developmen
 
 ## Important
 
-This application uses the firebase-admin SDK.  It requires service account credentials to access the databases.  Make sure that those credentials are not exposed in the client-side sportify app, and that they are .gitignored in the Sportify-Firebase-Admin.  Also, make sure to only use those credentials that are for the test environment of the sportify project.
+This application uses the firebase-admin SDK.  It requires service account credentials to access the databases.  Make sure that those credentials are not exposed in the client-side sportify app, and that they are .gitignored in the Sportify-Firebase-Admin.  Also, make sure to only use those credentials that are for the development environment of the sportify project.
 
 ## Getting started
 
