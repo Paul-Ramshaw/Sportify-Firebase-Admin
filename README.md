@@ -1,6 +1,6 @@
 # Sportify-Firebase-Admin
 
-This application is intended to be used alongside Sportify. It should only be used in a sportify firebase test environment. Sportify-Firebase-Admin can be used to (re)seed the **test** firebase Authentication and firestore databases for Sportify.  Sportify-Firebase-Admin will repopulate the Firebase Authentication and Firestore databases with sample user and event data.
+This application uses the Firebase-Admin SDK to (re)seed the Sportify development databases.  Sportify-Firebase-Admin will repopulate the Firebase Authentication and Firestore databases with sample user and event data.
 
 ## Important
 
